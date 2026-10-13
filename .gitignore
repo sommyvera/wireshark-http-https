@@ -1,0 +1,21 @@
+# Packet captures - review carefully before committing
+*.pcap
+*.pcapng
+
+# Sensitive exports
+*.key
+*.pem
+*.p12
+*.pfx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
